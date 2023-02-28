@@ -1,1 +1,1 @@
-Sitemap: /pivlab.org/sitemap.xml
+Sitemap: /sitemap.xml
