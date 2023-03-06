@@ -26,7 +26,7 @@ header a {
   max-width: 100%;
 }
 
-span.home + span {
+header a span.home + span {
   font-family: "Courier New", Courier, monospace;
 }
 
