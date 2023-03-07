@@ -26,6 +26,10 @@ header a {
   max-width: 100%;
 }
 
+header.background span.logo + span {
+  font-family: "Courier New", Courier, monospace;
+}
+
 .logo {
   height: 40px;
 }
@@ -129,7 +133,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 120px;
 }
 header[data-big] .title {
   flex-direction: column;
