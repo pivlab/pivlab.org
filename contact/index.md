@@ -53,7 +53,7 @@ Our offices are located on the 6th floor of the [Anschutz Health Sciences Buildi
 
 {% include cols.html col1=col1 col2=col2 %}
 
-![](https://vimeo.com/263856289)
+![](https://vimeo.com/686897808)
 
 {% include section.html dark=true %}
 
