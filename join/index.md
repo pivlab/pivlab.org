@@ -1,5 +1,8 @@
 ---
 title: Join
+nav:
+  order: 4
+  tooltip: Join our lab
 ---
 
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the lab
