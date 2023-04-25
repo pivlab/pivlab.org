@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/preview/pr-10/feed.xml" rel="self" type="application/atom+xml" /><link href="/preview/pr-10/" rel="alternate" type="text/html" /><updated>2023-04-25T18:31:32+00:00</updated><id>/preview/pr-10/feed.xml</id><title type="html">Pividori Lab</title><subtitle>We are a research laboratory at the University of Colorado Anschutz Medical Campus. We design advanced machine learning methods applied to human disease with a systems biology approach.</subtitle><entry><title type="html">Initializing Pividori Lab</title><link href="/preview/pr-10/2023/04/24/initializing-pividori-lab.html" rel="alternate" type="text/html" title="Initializing Pividori Lab" /><published>2023-04-24T00:00:00+00:00</published><updated>2023-04-25T18:30:30+00:00</updated><id>/preview/pr-10/2023/04/24/initializing-pividori-lab</id><content type="html" xml:base="/preview/pr-10/2023/04/24/initializing-pividori-lab.html"><![CDATA[<figure class="figure">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/preview/pr-10/feed.xml" rel="self" type="application/atom+xml" /><link href="/preview/pr-10/" rel="alternate" type="text/html" /><updated>2023-04-25T18:38:33+00:00</updated><id>/preview/pr-10/feed.xml</id><title type="html">Pividori Lab</title><subtitle>We are a research laboratory at the University of Colorado Anschutz Medical Campus. We design advanced machine learning methods applied to human disease with a systems biology approach.</subtitle><entry><title type="html">Initializing Pividori Lab</title><link href="/preview/pr-10/2023/04/24/initializing-pividori-lab.html" rel="alternate" type="text/html" title="Initializing Pividori Lab" /><published>2023-04-24T00:00:00+00:00</published><updated>2023-04-25T18:37:39+00:00</updated><id>/preview/pr-10/2023/04/24/initializing-pividori-lab</id><content type="html" xml:base="/preview/pr-10/2023/04/24/initializing-pividori-lab.html"><![CDATA[<div class="float" data-flip="">
+  
+<figure class="figure">
   <a class="figure-image" aria-label="“An abstract painting of dawn illuminating a research lab on biomedical informatics” - Milton × DALL·E">
     <img src="/preview/pr-10/images/blog/2023-04-25-dalle_2.png" style="
-        width: 50%;
+        width: 30%;
         max-height: unset;
       " alt="“An abstract painting of dawn illuminating a research lab on biomedical informatics” - Milton × DALL·E" loading="lazy" onerror="this.src = '/preview/pr-10/images/fallback.svg'; this.onerror = null;" />
   </a>
@@ -13,8 +15,16 @@
   
 </figure>
 
+
+</div>
+
 <p>On May 1st, 2023, I’ll officially start as an Assistant Professor and PI of the <a href="https://pivlab.org/">Pividori Lab</a> in the <a href="https://medschool.cuanschutz.edu/dbmi">Department of Biomedical Informatics</a>, <a href="https://medschool.cuanschutz.edu/">University of Colorado Anschutz Medical Campus</a>.
 I won’t write a long post about this, just saying that I’m very excited about this new stage in my career.
 I invite you to keep an eye on this blog, <a href="https://twitter.com/miltondp">my Twitter</a> and <a href="https://github.com/pivlab">our projects on GitHub</a> for updates about our research and other activities.</p>
 
-<p><strong>We are recruiting!</strong> So if your interests overlap with <a href="https://pivlab.org/research/">our labs’</a>, please reach out!</p>]]></content><author><name>milton-pividori</name></author><category term="lab,research" /><summary type="html"><![CDATA[“An abstract painting of dawn illuminating a research lab on biomedical informatics” - Milton × DALL·E]]></summary></entry></feed>
+<p><strong>We are recruiting!</strong> So if your interests overlap with <a href="https://pivlab.org/research/">our labs’</a>, please reach out!</p>
+
+<div class="float" data-clear="">
+  
+
+</div>]]></content><author><name>milton-pividori</name></author><category term="lab,research" /><summary type="html"><![CDATA[]]></summary></entry></feed>
