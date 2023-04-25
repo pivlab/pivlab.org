@@ -5,10 +5,6 @@ tags: lab,research
 ---
 
 On May 1st, 2023, I'll officially start as an Assistant Professor and PI of the [Pividori Lab](https://pivlab.org/) in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi), [University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/).
-I won't write a long post about this, just saying that I'm very excited about this new stage in my career.
-I invite you to keep an eye on this blog, [my Twitter](https://twitter.com/miltondp) and [our projects on GitHub](https://github.com/pivlab) for updates about our research and other activities.
-
-**We are recruiting!** So if your interests overlap with [our labs'](https://pivlab.org/research/), please reach out!
 
 {% capture fig %}
   {%
@@ -24,5 +20,10 @@ I invite you to keep an eye on this blog, [my Twitter](https://twitter.com/milto
   content=fig
   flip=false
 %}
+
+I won't write a long post about this, just saying that I'm very excited about this new stage in my career.
+I invite you to keep an eye on this blog, [my Twitter](https://twitter.com/miltondp) and [our projects on GitHub](https://github.com/pivlab) for updates about our research and other activities.
+
+**We are recruiting!** So if your interests overlap with [our labs'](https://pivlab.org/research/), please reach out!
 
 {% include float.html clear=true %}
