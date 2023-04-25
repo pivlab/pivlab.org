@@ -8,7 +8,7 @@ tags: lab,research
   {%
     include figure.html
     image="images/blog/2023-04-25-dalle_2.png"
-    caption="“An abstract painting of dawn illuminating a research lab on biomedical informatics” - Milton × DALL·E"
+    caption="“An abstract painting depicting the dawn light shining on a biomedical informatics research laboratory” - Milton × DALL·E"
     link="research"
     width="100%"
   %}
@@ -27,6 +27,6 @@ Our lab will focus on developing machine-learning methods for biomedical informa
 We aim to design the next generation of methodologies that will consolidate large and heterogeneous sources of biomedical data to extract biological insights that will ultimately improve human health.
 I invite you to keep an eye on [this blog](blog), [my Twitter](https://twitter.com/miltondp), and [our projects on GitHub](https://github.com/pivlab) for updates about our research and other activities.
 
-**We are recruiting!** If your interests align with [our labs'](research), please reach out!
+**We are recruiting!** If your interests align with [our labs'](/research), please reach out!
 
 {% include float.html clear=true %}
