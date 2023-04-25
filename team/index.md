@@ -15,7 +15,7 @@ We believe that diversity is essential for achieving our research goals, and we 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html dark=true %}
 
 We're currently hiring for several positions, and we encourage all individuals from diverse backgrounds to apply.
 **Join us** and become part of our team.
