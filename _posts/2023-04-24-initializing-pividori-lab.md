@@ -9,7 +9,7 @@ tags: lab,research
     include figure.html
     image="images/blog/2023-04-25-dalle_2.png"
     caption="“An abstract painting of dawn illuminating a research lab on biomedical informatics” - Milton × DALL·E"
-    width="70%"
+    width="100%"
   %}
 {% endcapture %}
 
