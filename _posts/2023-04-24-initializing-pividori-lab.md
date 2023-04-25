@@ -9,14 +9,14 @@ tags: lab,research
     include figure.html
     image="images/blog/2023-04-25-dalle_2.png"
     caption="“An abstract painting of dawn illuminating a research lab on biomedical informatics” - Milton × DALL·E"
-    width="30%"
+    width="70%"
   %}
 {% endcapture %}
 
 {%
   include float.html
   content=content
-  flip=true
+  flip=false
 %}
 
 On May 1st, 2023, I'll officially start as an Assistant Professor and PI of the [Pividori Lab](https://pivlab.org/) in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi), [University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/).
