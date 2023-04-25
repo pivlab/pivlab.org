@@ -21,6 +21,8 @@ tags: lab,research
 
 On May 1st, 2023, I'll officially start as an Assistant Professor and PI of the [Pividori Lab](https://pivlab.org/) in the [Department of Biomedical Informatics](https://medschool.cuanschutz.edu/dbmi), [University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/).
 I won't write a long post about this, just saying that I'm very excited about this new stage in my career.
+Our lab will focus on developing machine-learning methods applied to biomedical informatics, with a special focus on the integration of multi-omics datasets and genetics.
+We'll aim to design the next generation of methodologies that will consolidate large and heterogeneous sources of biomedical data to extract biological insight to ultimately improve human health.
 I invite you to keep an eye on this blog, [my Twitter](https://twitter.com/miltondp) and [our projects on GitHub](https://github.com/pivlab) for updates about our research and other activities.
 
 **We are recruiting!** So if your interests overlap with [our labs'](https://pivlab.org/research/), please reach out!
