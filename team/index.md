@@ -17,8 +17,9 @@ We believe that diversity is essential for achieving our research goals, and we 
 
 {% include section.html dark=true %}
 
-### We are hiring!
-{:.center}
+{:refdef: class="center"}
+## We are hiring!
+{: refdef}
 
 We're currently hiring for several positions.
 **Join us** and become part of our team.
