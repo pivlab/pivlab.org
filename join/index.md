@@ -9,7 +9,7 @@ nav:
 
 We are currently hiring postdoctoral researchers, research assistants and software engineers.
 
-If you are interested in joining the lab, please [contact Milton Pividori](/contact).
+If you are interested in joining the lab, please [contact us](/contact).
 
 
 ### Graduate students
