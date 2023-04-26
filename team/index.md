@@ -17,11 +17,10 @@ We believe that diversity is essential for achieving our research goals, and we 
 
 {% include section.html dark=true %}
 
-{:refdef: class="center"}
 ### We are hiring!
-{: refdef}
+{:.center}
 
-We're currently hiring for several positions, and we encourage all individuals from diverse backgrounds to apply.
+We're currently hiring for several positions.
 **Join us** and become part of our team.
 
 {%
