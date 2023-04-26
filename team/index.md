@@ -14,7 +14,7 @@ nav:
 
 {% include section.html dark=true %}
 
-{:refdef: class="center" style="font-size: var(--xxl)"}
+{:refdef: class="center" style="font-size: var(--xl)"}
 **We are hiring!**
 {: refdef}
 
