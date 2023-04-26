@@ -14,12 +14,12 @@ nav:
 
 {% include section.html dark=true %}
 
-{:refdef: class="center" style="font-size: var(--xxl);"}
 **We are hiring!**
-{: refdef}
+{:.center .title}
 
 We're currently hiring for several positions.
 **Join us** and become part of our team.
+{:.center}
 
 {%
   include button.html
