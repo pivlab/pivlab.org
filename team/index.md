@@ -14,8 +14,10 @@ nav:
 
 {% include section.html dark=true %}
 
-<span class=".center" style="font-size: var(--xxl);">
+<span style="font-size: var(--xxl);">
+<p class=".center">
 **We are hiring!**
+</p>
 </span>
 
 <span class=".center" style="font-size: var(--large);">
