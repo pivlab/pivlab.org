@@ -18,10 +18,9 @@ nav:
 **We are hiring!**
 {: refdef}
 
-{:refdeff: class="center" style="font-size: var(--large);"}
 We're currently hiring for several positions.
 **Join us** and become part of our team.
-{: refdeff}
+{:.center}
 
 {%
   include button.html
