@@ -31,3 +31,5 @@
   image: images/articles/multixcan.png
 - id: doi:10.1016/j.ins.2016.04.027
   image: images/articles/divcontrol.png
+- id: doi:10.1093/bib/bbv054
+  image: images/articles/webdemo-builder.png
