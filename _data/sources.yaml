@@ -17,3 +17,5 @@
   image: images/articles/phenomexcan.png
 - id: doi:10.1101/2020.07.01.182097
   image: images/articles/prob_coloc.png
+- id: doi:10.1093/bioinformatics/btaa111
+  image: images/articles/dl4papers.png
