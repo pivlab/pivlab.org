@@ -13,3 +13,5 @@
   image: images/articles/asthma_endotypes.png
 - id: doi:10.1101/2020.11.12.373647
   image: images/articles/prs.png
+- id: doi:10.1126/sciadv.aba2083
+  image: images/articles/phenomexcan.png
