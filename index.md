@@ -6,7 +6,7 @@ subtitle: biomedical informatics
 
 We are a research laboratory at the [University of Colorado Anschutz Medical Campus](https://medschool.cuanschutz.edu/).
 Our research is focused on developing novel machine-learning methods to advance key computational aspects of precision medicine.
-For this, we design and develop computational algorithms and tools that are applied to human disease with a systems biology approach.
+For this, we design and develop algorithms and tools that are applied to human disease with a systems biology approach.
 
 {% include section.html %}
 
@@ -32,7 +32,7 @@ By leveraging the power of computational analysis and cutting-edge technology, w
 {%
   include feature.html
   image="images/ml_and_disease.png"
-  image_title="'A realistic painting of machine learning disentangling the molecular mechanisms of disease' by Milton × DALL·E"
+  image_title="”A realistic painting of machine learning disentangling the molecular mechanisms of disease” by Milton × DALL·E"
   link="research"
   title="Our Research"
   text=text
@@ -83,6 +83,7 @@ Our team is a group of passionate data scientists with diverse backgrounds and e
 {%
   include feature.html
   image="images/team.png"
+  image_title="“An abstract painting of a diverse team of researchers and students discussing ideas about biology and mathematics” by Milton × DALL·E"
   link="team"
   title="Our Team"
   text=text
