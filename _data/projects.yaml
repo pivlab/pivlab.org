@@ -30,10 +30,10 @@
     - large language models
 
 - title: ukbREST
-  subtitle: Efficient and streamlined data access for reproducible research in large biobanks
-  image: images/photo.jpg
+  subtitle: Efficient and streamlined data access for reproducible research in the UK Biobank
+  image: images/projects/ukbrest.jpg
   link: https://github.com/hakyimlab/ukbrest
-  description: A tool that enables to efficiently retrieve phenotypic and genetic data inside within a private, secure network through a REST API. It allows the data specification in a human readable text format easily shareable with other researchers.
+  description: A tool that enables to efficiently retrieve phenotypic and genetic data from the UK Biobank within a private, secure network through a REST API. Its data access specification has a human readable text format easily shareable with other researchers.
   tags:
     - UK Biobank
     - data
