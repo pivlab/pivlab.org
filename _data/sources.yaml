@@ -24,3 +24,5 @@
   image: images/articles/exploiting.png
 - id: doi:10.1093/bib/bby037
   image: images/articles/predicting-mirna.png
+- id: doi:10.1093/bioinformatics/bty899
+  image: images/articles/clustermatch.png
