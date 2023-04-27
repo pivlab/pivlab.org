@@ -57,7 +57,7 @@ These resources are designed to promote transparency and accessibility in academ
 
 {%
   include feature.html
-  image="images/neural_net.png"
+  image="images/neural_net2.png"
   link="projects"
   title="Our Projects"
   flip=true
