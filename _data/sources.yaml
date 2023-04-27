@@ -23,6 +23,8 @@
   image: images/articles/ukbrest.png
 - id: doi:10.1101/814350
   image: images/articles/exploiting.png
+- id: doi:10.1093/bib/bby037
+  hide: true
 - id: pmid:29800232
   image: images/articles/predicting-mirna.png
 - id: doi:10.1093/bioinformatics/bty899
