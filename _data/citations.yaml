@@ -92,13 +92,6 @@
     between gene modules and diseases, 2) a clustering approach that finds groups
     of diseases with shared transcriptomic properties, and 3) a gene module-based
     drug-repurposing method.
-  tags:
-  - genetic studies
-  - functional genomics
-  - gene co-expression
-  - therapeutic targets
-  - drug repurposing
-  - complex traits
 - id: doi:10.1101/2020.11.12.373647
   title: Polygenic transcriptome risk scores improve portability of polygenic risk
     scores across ancestries
