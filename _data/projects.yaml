@@ -3,7 +3,7 @@
   group: featured
   image: images/projects/phenoplier.png
   link: https://github.com/greenelab/phenoplier
-  description: An omnigenic approach that provides a gene module perspective to genetic studies, providing gene module-trait associations and a drug repurposing approach.
+  description: An omnigenic approach that provides a gene module perspective to genetic studies. PhenoPLIER computes gene module-trait associations and a drug-disease links.
   tags:
     - genetic studies
     - gene co-expression
