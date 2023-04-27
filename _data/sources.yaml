@@ -15,3 +15,5 @@
   image: images/articles/prs.png
 - id: doi:10.1126/sciadv.aba2083
   image: images/articles/phenomexcan.png
+- id: doi:10.1101/2020.07.01.182097
+  image: images/articles/prob_coloc.png
