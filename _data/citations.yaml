@@ -11,7 +11,7 @@
   orcid: 0000-0002-3035-4403
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/pivlab/pivlab.org/main/images/articles/manubot-ai-editor.png
+  image: images/articles/manubot-ai-editor.png
   description: We developed the Manubot AI Editor, a plugin to the Manubot publishing
     infrastructure that uses manuscript section-specific prompts and OpenAI's models
     (such as GPT-3) to automatically revise and improve the text.
@@ -57,7 +57,7 @@
   orcid: 0000-0002-3035-4403
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/pivlab/pivlab.org/main/images/articles/ccc.png
+  image: images/articles/ccc.png
   description: This article introduces the Clustermatch Correlation Coefficient (CCC),
     an efficient, easy-to-use and not-only-linear coefficient based on machine learning
     models. CCC can detect biologically meaningful linear and nonlinear patterns missed
@@ -89,7 +89,7 @@
   orcid: 0000-0002-3035-4403
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/pivlab/pivlab.org/main/images/articles/phenoplier.png
+  image: images/articles/phenoplier.png
   description: Here we introduce the PhenoPLIER framework, an omnigenic approach that
     integrates genetic studies (GWAS/TWAS) with gene modules learned from expression
     data. PhenoPLIER provides 1) a regression framework that computes an association
