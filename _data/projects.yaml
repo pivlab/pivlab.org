@@ -20,23 +20,22 @@
    - gene co-expression
 
 - title: Manubot AI Editor
-  subtitle: a subtitle
+  subtitle: AI-assisted manuscript revision tool
   group: featured
   image: images/photo.jpg
   link: https://github.com/manubot/manubot-ai-editor
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: A workflow for Manubot that automatically improves scholarly manuscripts using large language models from OpenAI.
   tags:
-    - software
-    - publication
+    - manubot
+    - large language models
 
 - title: ukbREST
-  subtitle: a subtitle
+  subtitle: Efficient and streamlined data access for reproducible research in large biobanks
   image: images/photo.jpg
   link: https://github.com/hakyimlab/ukbrest
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: A tool that enables to efficiently retrieve phenotypic and genetic data inside within a private, secure network through a REST API. It allows the data specification in a human readable text format easily shareable with other researchers.
   tags:
-    - software
-    - publication
+    - UK Biobank
     - data
 
 - title: divControl
