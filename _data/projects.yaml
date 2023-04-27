@@ -4,26 +4,20 @@
   image: images/projects/phenoplier.png
   link: https://github.com/greenelab/phenoplier
   description: An omnigenic approach that provides a gene module perspective to genetic studies, providing gene module-trait associations and a drug repurposing approach.
-  repo: greenelab/phenoplier
   tags:
     - genetic studies
-    - functional genomics
     - gene co-expression
-    - therapeutic targets
     - drug repurposing
-    - complex traits
 
 - title: "CCC: Clustermatch Correlation Coefficient"
   subtitle: An efficient not-only-linear correlation coefficient
   group: featured
   image: images/projects/ccc.png
   link: https://github.com/greenelab/ccc
-  description: CCC is an easy-to-use and not-only-linear coefficient based on machine learning models. CCC can detect biologically meaningful linear and nonlinear patterns missed by standard, linear-only correlation coefficients.
-  repo: greenelab/ccc
+  description: An easy-to-use and not-only-linear coefficient based on machine learning models. CCC can detect biologically meaningful linear and nonlinear patterns missed by standard, linear-only correlation coefficients.
   tags:
-   - correlation coefficient
-   - nonlinear relationships
-   - gene expression
+   - correlation
+   - gene co-expression
 
 - title: Manubot AI Editor
   subtitle: a subtitle
@@ -31,7 +25,6 @@
   image: images/photo.jpg
   link: https://github.com/manubot/manubot-ai-editor
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: manubot/manubot-ai-editor
   tags:
     - software
     - publication
@@ -41,17 +34,16 @@
   image: images/photo.jpg
   link: https://github.com/hakyimlab/ukbrest
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: hakyimlab/ukbrest
   tags:
     - software
     - publication
     - data
 
 - title: divControl
-  subtitle: divControl is a method to smoothly control the diversity of a cluster ensemble, thus providing an effective way to study the diversity influence on consensus performance.
+  subtitle: Diversity control for cluster ensembles
   image: images/projects/divcontrol.png
   link: https://sinc.unl.edu.ar/web-demo/divcontrol/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: A method to smoothly control the diversity of a cluster ensemble, thus providing an effective way to study the diversity influence on consensus performance.
   tags:
-    - software
+    - unsupervised learning
+    - clustering
