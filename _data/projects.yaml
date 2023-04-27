@@ -1,46 +1,52 @@
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
+- title: ukbREST
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/hakyimlab/ukbrest
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: hakyimlab/ukbrest
   tags:
     - software
+    - publication
+    - data
 
-- title: Cool Web Server
+- title: Clustermatch Correlation Coefficient
   subtitle: a subtitle
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
+  link: https://github.com/greenelab/ccc
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/ccc
+  tags:
+    - software
+    - publication
+
+- title: PhenoPLIER
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/greenelab/phenoplier
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/phenoplier
+  tags:
+    - software
+    - publication
+    - data
+
+- title: Manubot AI Editor
+  subtitle: a subtitle
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/manubot/manubot-ai-editor
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: manubot/manubot-ai-editor
+  tags:
+    - software
+    - publication
+
+- title: divControl
+  subtitle: divControl is a method to smoothly control the diversity of a cluster ensemble, thus providing an effective way to study the diversity influence on consensus performance.
+  image: images/projects/divcontrol.png
+  link: https://sinc.unl.edu.ar/web-demo/divcontrol/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
