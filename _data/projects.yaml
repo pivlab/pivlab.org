@@ -22,7 +22,7 @@
 - title: Manubot AI Editor
   subtitle: AI-assisted manuscript revision tool
   group: featured
-  image: images/photo.jpg
+  image: images/projects/manubot-ai-editor.png
   link: https://github.com/manubot/manubot-ai-editor
   description: A workflow for Manubot that automatically improves scholarly manuscripts using large language models from OpenAI.
   tags:
