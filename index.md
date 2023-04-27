@@ -40,9 +40,9 @@ By leveraging the power of computational analysis and cutting-edge technology, w
 
 {% capture text %}
 
-Our team devotes significant efforts to constructing robust and user-friendly tools to facilitate reproducible research.
+Our team is committed to developing robust and user-friendly tools to facilitate reproducible research.
 Our software is openly accessible on GitHub and conveniently packaged for easy installation.
-These resources are intended to promote transparency and accessibility in academic research, enabling fellow scholars to replicate and build upon our findings.
+These resources are designed to promote transparency and accessibility in academic research, enabling fellow scholars to replicate and build upon our findings.
 
 {%
   include button.html
@@ -57,7 +57,7 @@ These resources are intended to promote transparency and accessibility in academ
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/neural_net.png"
   link="projects"
   title="Our Projects"
   flip=true
