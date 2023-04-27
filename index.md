@@ -40,7 +40,9 @@ By leveraging the power of computational analysis and cutting-edge technology, w
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team devotes significant efforts to constructing robust and user-friendly tools to facilitate reproducible research.
+Our software is openly accessible on GitHub and conveniently packaged for easy installation.
+These resources are intended to promote transparency and accessibility in academic research, enabling fellow scholars to replicate and build upon our findings.
 
 {%
   include button.html
