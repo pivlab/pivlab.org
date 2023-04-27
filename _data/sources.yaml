@@ -9,3 +9,5 @@
   description: We developed the Manubot AI Editor, a plugin to the Manubot publishing infrastructure that uses manuscript section-specific prompts and OpenAI's models (such as GPT-3) to automatically revise and improve the text.
 - id: doi:10.1016/S2213-2600(19)30055-4
   image: images/articles/asthma.png
+- id: doi:10.1038/s41467-022-33628-8
+  image: images/articles/asthma_endotypes.png
