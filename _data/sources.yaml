@@ -29,3 +29,5 @@
   image: images/articles/clustermatch.png
 - id: doi:10.1371/journal.pgen.1007889
   image: images/articles/multixcan.png
+- id: doi:10.1016/j.ins.2016.04.027
+  image: images/articles/divcontrol.png
