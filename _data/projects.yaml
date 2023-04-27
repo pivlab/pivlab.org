@@ -10,7 +10,7 @@
     - data
 
 - title: Clustermatch Correlation Coefficient
-  subtitle: a subtitle
+  subtitle: An efficient not-only-linear correlation coefficient
   group: featured
   image: images/projects/ccc.png
   link: https://github.com/greenelab/ccc
