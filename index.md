@@ -90,4 +90,4 @@ Our team is a group of passionate data scientists with diverse backgrounds and e
 %}
 
 
-<a rel="me" href="https://genomic.social/@miltondp">Mastodon</a>
+<a rel="me" href="https://genomic.social/@miltondp" style="display: none;">Mastodon</a>
