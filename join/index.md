@@ -8,6 +8,9 @@ nav:
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the lab
 
 We are currently hiring postdoctoral researchers, research assistants and software engineers.
+These are the current positions open:
+
+* [Postdoctoral fellow in computational biology](https://cu.taleo.net/careersection/2/jobdetail.ftl?job=30387&lang=en) (focused on the design of machine learning methods).
 
 If you are interested in joining the lab, please [contact us](/contact).
 
